@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>style.qss</file>
+        <file>icons/窗帘.png</file>
+        <file>icons/床头灯.png</file>
+        <file>icons/回房.png</file>
+        <file>icons/监控.png</file>
+        <file>icons/离房.png</file>
+        <file>icons/排气扇.png</file>
+        <file>icons/阅读.png</file>
+        <file>icons/主灯.png</file>
+        <file>icons/装饰灯.png</file>
+        <file>icons/客厅灯.png</file>
+        <file>icons/空调.png</file>
+        <file>icons/空气质量检测.png</file>
+        <file>icons/音乐.png</file>
+    </qresource>
+</RCC>
